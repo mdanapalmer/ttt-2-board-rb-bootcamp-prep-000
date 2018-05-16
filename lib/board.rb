@@ -1,1 +1,1 @@
-board = "ticTacToe"
+board = "ticTacToe" [" "," "," "," "," "," "," "," "," "]
